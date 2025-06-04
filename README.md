@@ -31,5 +31,6 @@ Clone or download this repository.
 
 Run the game with:
 
-```bash
+[```bash
 python hangman.py
+](https://appbrewery.github.io/python-day7-demo/)
